@@ -43,6 +43,7 @@ pip install streamlit
 ▶️ Cómo ejecutar la aplicación
 
 1️⃣ Abrir CMD o PowerShell
+
 2️⃣ Ir al directorio del proyecto:
 
 cd C:\Users\strea\Desktop\Turnos
